@@ -1,1 +1,24 @@
+[{
+    "id": 1,
+    "name": "100 Days of Algo",
+    "image": "https://www.bigocheatsheet.com/img/big-o-cheat-sheet-poster.png",
+    "desc": "This repo contains the DSA Problem Solutions solved by me as part of 100 days challenge on LinkedIn.",
+    "tools": ["Java","Algorithms", "Problem Solving", "Data Structures", "Leetcode"],
+    "codelink":"https://github.com/manvi0308/100DaysOfAlgo"
+}, {
+    "id": 2,
+    "name": "Project 2",
+    "image": "https://www.shutterstock.com/shutterstock/videos/1097149583/thumb/9.jpg?ip=x480",
+    "desc": "Quiz Project that fetches questions dynamically using a database and awards points, declares winners",
+    "tools": ["React"],
+    "codelink":"https://github.com/manvi0308/100DaysOfAlgo"
+},
+{
+    "id":3,
+    "name": "Project 3",
+    "image": "https://i.ytimg.com/vi/W-0FW-oFLL4/hqdefault.jpg",
 
+    "desc": "Library management system with a lot of functionality for a real time organizations",
+    "tools": ["Java","MySQL"],
+    "codelink":"https://github.com/manvi0308/100DaysOfAlgo"
+}]
