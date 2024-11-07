@@ -1,0 +1,40 @@
+.navContainer {
+  /*border: 1px solid red;*/
+  width: 70%;
+  margin: 20px auto;
+}
+
+.navContainer ol {
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+  font-size: 20px;
+  flex-wrap: wrap;
+
+}
+
+.navContainer ol li {
+  border-bottom: 0.1px solid gainsboro;
+}
+
+@media (max-width: 1024px) {
+  .navContainer {
+    width: 100%;
+  }
+}
+
+@media (max-width: 590px) {
+  .navContainer ol li {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 299px) {
+    .navContainer{
+        width: 100%;
+    }
+    .navContainer ol {
+        padding: 0;
+        flex-direction: column;
+    }
+}
